@@ -1,12 +1,9 @@
 ### Hi there I'm Umesh 👋
 
 
-- 🔭 I’m currently working on http://umesh.work/
+
 - 🌱 I’m currently learning to build a AI-IOT system
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns:
-- ⚡ Fun fact:
+- 📫 How to reach me: @ http://umesh.work/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ioumesh&show_icons=true&theme=vue-dark" />
