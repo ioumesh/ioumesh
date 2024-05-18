@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning to build a AI-IOT system
-- 📫 How to reach me: @ http://umesh.work/
+- 📫 How to reach me: @ https://devumesh.netlify.app/
 
 ### Technologies and Tools
 
